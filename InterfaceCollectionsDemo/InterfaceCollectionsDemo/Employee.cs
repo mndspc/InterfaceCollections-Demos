@@ -9,7 +9,7 @@ namespace InterfaceCollectionsDemo
 {
 
     //  This class implements IEnumerable interface
-    class Employees : IEnumerable<Employee>
+    class Employees : IEnumerable<Employee>,IDisposable
     {
         List<Employee> employeeList = new List<Employee>();
 
@@ -24,6 +24,11 @@ namespace InterfaceCollectionsDemo
             {
                 employeeList.Add(value);
             }
+        }
+
+        public void Dispose()
+        {
+            GC.SuppressFinalize(this);
         }
 
         public IEnumerator<Employee> GetEnumerator()
