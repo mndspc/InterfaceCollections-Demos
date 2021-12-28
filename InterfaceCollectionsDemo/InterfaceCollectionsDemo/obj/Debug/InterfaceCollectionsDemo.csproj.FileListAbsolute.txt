@@ -1,0 +1,8 @@
+D:\Corporate\Nordic Academy\C#\Demos\InterfaceCollectionsDemo\InterfaceCollectionsDemo\bin\Debug\InterfaceCollectionsDemo.exe.config
+D:\Corporate\Nordic Academy\C#\Demos\InterfaceCollectionsDemo\InterfaceCollectionsDemo\bin\Debug\InterfaceCollectionsDemo.exe
+D:\Corporate\Nordic Academy\C#\Demos\InterfaceCollectionsDemo\InterfaceCollectionsDemo\bin\Debug\InterfaceCollectionsDemo.pdb
+D:\Corporate\Nordic Academy\C#\Demos\InterfaceCollectionsDemo\InterfaceCollectionsDemo\obj\Debug\InterfaceCollectionsDemo.csproj.AssemblyReference.cache
+D:\Corporate\Nordic Academy\C#\Demos\InterfaceCollectionsDemo\InterfaceCollectionsDemo\obj\Debug\InterfaceCollectionsDemo.csproj.SuggestedBindingRedirects.cache
+D:\Corporate\Nordic Academy\C#\Demos\InterfaceCollectionsDemo\InterfaceCollectionsDemo\obj\Debug\InterfaceCollectionsDemo.csproj.CoreCompileInputs.cache
+D:\Corporate\Nordic Academy\C#\Demos\InterfaceCollectionsDemo\InterfaceCollectionsDemo\obj\Debug\InterfaceCollectionsDemo.exe
+D:\Corporate\Nordic Academy\C#\Demos\InterfaceCollectionsDemo\InterfaceCollectionsDemo\obj\Debug\InterfaceCollectionsDemo.pdb
